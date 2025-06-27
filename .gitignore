@@ -1,0 +1,15 @@
+node_modules/
+/playwright/.cache/
+reports/
+package-lock.json
+.DS_Store
+stdout
+allure-report
+allure-results
+wdio-safaridriver.log
+envs/.env
+mobile/apps/*
+logs/
+local.log
+browserstack.err
+.idea
